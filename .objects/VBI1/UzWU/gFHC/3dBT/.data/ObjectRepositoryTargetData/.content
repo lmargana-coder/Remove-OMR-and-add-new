@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="2TdCitSuZkO-U59XQm4UVA" Reference="iqEizjyjDkebouS4ufUtZw/3dBTrcOQiUO_WJlaLl0Erg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="371, 178, 113, 35" ElementType="Button" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;wnd ctrlid='*' title='&amp;amp;Yes' /&gt;" Guid="08d42047-20fa-43d7-b105-fa418d7df6ef" ScopeSelectorArgument="&lt;wnd app='junifer.thor.client.exe' cls='#32770' title='Question' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="305ec9e53779ef594564f10acb4e2964.jpg" xmlns="">0EEydKHNqMEunzGZgQK1Wsg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

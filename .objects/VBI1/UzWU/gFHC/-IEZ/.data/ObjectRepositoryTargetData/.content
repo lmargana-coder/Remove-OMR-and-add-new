@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="dJrd34kU-0arePBPxsWzvQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="312, 270, 240, 21" ElementType="DropDown" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;wnd ctrlname='panelMain' /&gt;&lt;wnd ctrlname='MeterReadingManualWizard' /&gt;&lt;wnd ctrlname='wizard' /&gt;&lt;wnd ctrlname='pageOne' /&gt;&lt;wnd ctrlname='layoutOne' /&gt;&lt;wnd ctrlname='dtpDttm' /&gt;&lt;wnd aaname='Reading Time:' cls='WindowsForms10.Edit.*' title='(None)' /&gt;" Guid="043ac3d8-a320-45f0-b1ee-7db9f78661b0" ScopeSelectorArgument="&lt;wnd app='junifer.thor.client.exe' ctrlname='NonMdiWrapper' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="7227b440c877f525069adc0ee79506b1.jpg" xmlns="">0Guxnhlfjpk6KB00WtdJCSQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

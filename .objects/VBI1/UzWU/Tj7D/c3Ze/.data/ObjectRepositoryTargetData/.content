@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="J-ENYHvHn0OgS3K5VilH8A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="96, 59, 552, 68" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;wnd ctrlname='pnlMessage' /&gt;&lt;wnd ctrlname='lblMessage' /&gt;" Guid="3b0314fd-4a1e-4830-ac56-bc79bc821408" ScopeSelectorArgument="&lt;wnd app='junifer.thor.client.exe' ctrlname='ExceptionDialog' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="97db75ea8a73ffe39b9de73e1cb0b078.jpg" xmlns="">02qlpwmTcEEGEO7QJT6P18A</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetAttributeGeneric</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

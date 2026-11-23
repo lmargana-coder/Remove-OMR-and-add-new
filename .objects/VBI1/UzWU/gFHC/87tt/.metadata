@@ -1,0 +1,13 @@
+﻿{
+  "Name": "New Reading",
+  "Type": "Element",
+  "Id": "87ttEMR7-0Ki1i2jrh6Dmw",
+  "Reference": "iqEizjyjDkebouS4ufUtZw/87ttEMR7-0Ki1i2jrh6Dmw",
+  "ParentRef": "iqEizjyjDkebouS4ufUtZw/gFHCfDZTB0mS8ghQGIUhrw",
+  "Created": "2026-11-19T20:38:38.1777543Z",
+  "Updated": "2026-11-19T20:38:38.1777543Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.30.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

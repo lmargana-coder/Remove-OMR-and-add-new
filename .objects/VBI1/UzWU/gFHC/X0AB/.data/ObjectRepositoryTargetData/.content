@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="iRelTU7JKUuyVoDjBGqYUw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="450, 279, 96, 33" ElementType="Button" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;wnd ctrlname='UtilityTimeSeriesEventSearch' /&gt;&lt;wnd ctrlname='splitter' /&gt;&lt;wnd cls='WindowsForms10.Window.*' title='Panel2' /&gt;&lt;wnd ctrlname='panelActions' /&gt;&lt;wnd ctrlname='layoutAction' /&gt;&lt;wnd ctrlname='btnClear' /&gt;" Guid="30662e06-230b-4037-b089-df714884a2f2" ScopeSelectorArgument="&lt;wnd app='junifer.thor.client.exe' ctrlname='MainForm' /&gt;&lt;wnd ctrlname='MdiWrapper' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="99addb21d4bce8eddd9d9f0397803389.jpg" xmlns="">0PINMW7ftVUaT7q7Z2kV4mg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

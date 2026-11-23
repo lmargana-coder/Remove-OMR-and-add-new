@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="xmI6x5EJmEuAqL8HHI-RXg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="417, 144, 113, 33" ElementType="Button" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;wnd ctrlname='pnlMessage' /&gt;&lt;wnd ctrlname='btnOk' /&gt;" Guid="1c0a89b7-0ff0-41eb-8113-ce94717276dc" ScopeSelectorArgument="&lt;wnd app='junifer.thor.client.exe' ctrlname='ExceptionDialog' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="d7fc9ba87ed41be28e2c26f222ecbdf6.jpg" xmlns="">0vmOhcTxk6E-t9l5Ey1__UQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

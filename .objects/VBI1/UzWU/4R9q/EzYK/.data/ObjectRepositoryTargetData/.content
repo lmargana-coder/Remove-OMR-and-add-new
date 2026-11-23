@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="CLL57ew2YEKplcbdw90XIA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="159, 231, 299, 21" ElementType="InputBox" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;wnd ctrlname='panelMain' /&gt;&lt;wnd ctrlname='layout' /&gt;&lt;wnd ctrlname='txtUsername' /&gt;&lt;wnd aaname='Username:' cls='WindowsForms10.Edit.*' /&gt;" Guid="2ccec711-01d4-4f5c-a55e-fab19d3cb62d" ScopeSelectorArgument="&lt;wnd app='junifer.thor.client.exe' ctrlname='Login' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="52420d0aa9e2f897f46c791e70298672.jpg" xmlns="">06fUcQfcRME-cdENwXt0Flg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

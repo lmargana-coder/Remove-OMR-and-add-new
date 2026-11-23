@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Junifer Login",
+  "Type": "App",
+  "Id": "VBI1jNBjgUaaNKo_RLFltQ",
+  "Reference": "iqEizjyjDkebouS4ufUtZw/VBI1jNBjgUaaNKo_RLFltQ",
+  "Created": "2026-05-06T09:53:47.3978281Z",
+  "Updated": "2026-05-06T09:53:47.3978281Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.30.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

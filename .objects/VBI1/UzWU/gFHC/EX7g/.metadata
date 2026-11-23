@@ -1,0 +1,13 @@
+﻿{
+  "Name": "View Bills",
+  "Type": "Element",
+  "Id": "EX7gRIDMe0W7iqw9Jc8P_g",
+  "Reference": "iqEizjyjDkebouS4ufUtZw/EX7gRIDMe0W7iqw9Jc8P_g",
+  "ParentRef": "iqEizjyjDkebouS4ufUtZw/gFHCfDZTB0mS8ghQGIUhrw",
+  "Created": "2026-11-20T08:32:33.4301527Z",
+  "Updated": "2026-11-20T08:32:33.4301527Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.30.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

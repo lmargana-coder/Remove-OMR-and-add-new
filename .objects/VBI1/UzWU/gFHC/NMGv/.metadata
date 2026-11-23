@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Find",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "NMGvAW1lA06494ZwXcEbkg",
+  "Reference": "iqEizjyjDkebouS4ufUtZw/NMGvAW1lA06494ZwXcEbkg",
+  "ParentRef": "iqEizjyjDkebouS4ufUtZw/gFHCfDZTB0mS8ghQGIUhrw",
+  "Created": "2026-05-07T07:18:19.672862Z",
+  "Updated": "2026-05-07T07:18:19.672862Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.30.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

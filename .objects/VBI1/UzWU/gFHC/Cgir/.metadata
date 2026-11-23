@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Remove Readings",
+  "Type": "Element",
+  "Id": "Cgir3TP9qEitt8OPmNivgQ",
+  "Reference": "iqEizjyjDkebouS4ufUtZw/Cgir3TP9qEitt8OPmNivgQ",
+  "ParentRef": "iqEizjyjDkebouS4ufUtZw/gFHCfDZTB0mS8ghQGIUhrw",
+  "Created": "2026-05-07T07:25:26.8143278Z",
+  "Updated": "2026-05-07T07:25:26.8143278Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.30.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "Name": "Remove OMR and add new_Performer",
+  "ProjectType": "Process",
+  "Description": "Remove OMR and add new",
+  "MainFile": "Main.xaml"
+}

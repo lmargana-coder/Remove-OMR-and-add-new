@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Failed to connect to se…(1)",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "c3ZeZSQUjkKEf9ZWxU0CbA",
+  "Reference": "iqEizjyjDkebouS4ufUtZw/c3ZeZSQUjkKEf9ZWxU0CbA",
+  "ParentRef": "iqEizjyjDkebouS4ufUtZw/Tj7D7S1vyEOhwsHugzJvCg",
+  "Created": "2026-05-06T13:22:03.1386929Z",
+  "Updated": "2026-05-06T13:22:03.1386929Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.30.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Connection Exception(1)",
+  "Type": "Screen",
+  "Id": "Tj7D7S1vyEOhwsHugzJvCg",
+  "Reference": "iqEizjyjDkebouS4ufUtZw/Tj7D7S1vyEOhwsHugzJvCg",
+  "ParentRef": "iqEizjyjDkebouS4ufUtZw/UzWU1O67R0uJIyQG3kySSA",
+  "Created": "2026-05-06T13:19:10.0777559Z",
+  "Updated": "2026-05-06T13:19:10.0777559Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.30.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

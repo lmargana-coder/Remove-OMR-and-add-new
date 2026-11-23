@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="N_YdQM0nc02m7G8Y_N8D8A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="1539, 381, 165, 21" ElementType="DropDown" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;wnd ctrlname='UtilityTimeSeriesEventSearch' /&gt;&lt;wnd ctrlname='splitter' /&gt;&lt;wnd cls='WindowsForms10.Window.*' title='Panel2' /&gt;&lt;wnd ctrlname='panelControls' /&gt;&lt;wnd ctrlname='layout' /&gt;&lt;wnd ctrlname='dtrDateRange' /&gt;&lt;wnd aaname='To:' cls='WindowsForms10.Window.*' /&gt;&lt;wnd aaname='To:' cls='WindowsForms10.Edit.*' title='(None)' /&gt;" Guid="8c3228ba-e363-47a2-9817-9846e8a6a75b" ScopeSelectorArgument="&lt;wnd app='junifer.thor.client.exe' ctrlname='MainForm' /&gt;&lt;wnd ctrlname='MdiWrapper' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="ebe9da72985a7f63cbd2b583a4a848b8.jpg" xmlns="">01FxsJ_rOhUmfqS8EvwNpXQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

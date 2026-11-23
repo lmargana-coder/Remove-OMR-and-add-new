@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Utility Warehouse Limited [UAT]",
+  "Type": "Screen",
+  "Id": "gFHCfDZTB0mS8ghQGIUhrw",
+  "Reference": "iqEizjyjDkebouS4ufUtZw/gFHCfDZTB0mS8ghQGIUhrw",
+  "ParentRef": "iqEizjyjDkebouS4ufUtZw/UzWU1O67R0uJIyQG3kySSA",
+  "Created": "2026-05-06T10:31:51.108673Z",
+  "Updated": "2026-05-06T10:31:51.108673Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.30.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

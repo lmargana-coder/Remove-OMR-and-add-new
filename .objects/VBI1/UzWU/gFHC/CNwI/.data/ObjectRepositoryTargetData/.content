@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="uHAo2JmyLUmawQOgb2YJmQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="4, 149, 458, 36" ElementType="Button" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;ctrl name='New Version' role='push button' /&gt;" Guid="bdc46f81-f2c0-4ffd-8033-edb9bdcd5ef1" ScopeSelectorArgument="&lt;wnd app='junifer.thor.client.exe' cls='WindowsForms10.Window.*' idx='*' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="a08af44a0dc6f3a11c096edf28747fc8.jpg" xmlns="">0aM76gvzY7UyaNGGe_QXE1Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
